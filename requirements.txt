@@ -1,0 +1,8 @@
+streamlit
+groq
+openai-whisper
+torch
+gtts
+streamlit-audiorecorder
+numpy
+scipy

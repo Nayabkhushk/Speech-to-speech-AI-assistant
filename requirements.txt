@@ -1,4 +1,4 @@
-streamlit
+streamlit 1.52.2
 groq
 openai-whisper
 torch
